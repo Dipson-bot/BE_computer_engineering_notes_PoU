@@ -6,7 +6,7 @@ This repository contains all the essential materials needed to complete a Bachel
 
 All course resources are organized and available in the following Google Drive folder:
 
-👉 **[Click here to access the materials](https://drive.google.com/drive/folders/YOUR-DRIVE-FOLDER-ID-HERE?usp=sharing](https://drive.google.com/drive/folders/1rG3-wqEXCMCzL0Aer-xMlgzfTyVBE9vS?usp=sharing))**
+👉 **[Click here to access the materials](https://drive.google.com/drive/folders/1rG3-wqEXCMCzL0Aer-xMlgzfTyVBE9vS?usp=drive_link)**
 
 > ⚠️ **Note:** These materials are updated and expanded regularly.  
 > Be sure to check the folder periodically for new additions or updates.
